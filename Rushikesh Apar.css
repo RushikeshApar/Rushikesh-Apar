@@ -2,7 +2,7 @@ body{
     color: #40514e;
     background-color: #E4F9F5;
     text-align: center;
-    padding: 50px;
+    padding: auto;
     font-family: 'Merriweather', serif;
 
 }
@@ -69,7 +69,7 @@ width: 4%;
 }
 .middle-container{
     margin: 100px 0;
-    background-color:#e1f7f1;
+    
 }
 .rushi{
     width:25% ;
